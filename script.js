@@ -1,0 +1,5 @@
+const name = prompt('Type you name')
+const weight = prompt('Enter your weight')
+const height = prompt('Enter your height')
+const dateOfAdmmision = prompt ('Enter the date of admission')
+const diabect = prompt ('Is diabect')
